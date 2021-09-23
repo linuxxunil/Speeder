@@ -1,2 +1,0 @@
-# Speeder
-Initial Project
